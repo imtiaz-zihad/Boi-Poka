@@ -36,6 +36,11 @@ Setup a Project in React
 * Add routeing to main.jsx -->   <RouterProvider router={router} />
   
 * Dev-->npm run dev
+
+
+## Surge Deploy 
+
+1. surge dist (if 1st time doesn;t work try multiple time)
  
 
 
